@@ -1,5 +1,5 @@
 # I2CLibLcdAVR
-i2c Library LCD for AVR 
+i2c LCD Library for AVR 
 
 
 lcdpcf8574 lib
