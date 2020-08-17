@@ -1,6 +1,10 @@
 # I2CLibLcdAVR
 i2c LCD Library for AVR 
 
+Mohammad Sadr Notes
+-----------
+This library has been slightly modified to run on Atmel Studio.
+
 
 lcdpcf8574 lib
 
