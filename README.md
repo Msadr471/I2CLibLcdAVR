@@ -1,12 +1,12 @@
 # I2CLibLcdAVR
 i2c Library LCD for AVR 
 
-==================================================
+
 lcdpcf8574 lib
-==================================================
-= Copyright (c) Davide Gironi, 2013              =
-= http://davidegironi.blogspot.it/               =
-==================================================
+
+= Copyright (c) Davide Gironi, 2013
+= http://davidegironi.blogspot.it/
+
 
 
 This library implements a driver for HD44780 lcd connected through PCF8574
