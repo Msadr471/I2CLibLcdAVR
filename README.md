@@ -1,9 +1,11 @@
 # I2CLibLcdAVR
 i2c LCD Library for AVR 
 
+
 Mohammad Sadr Notes
 -----------
 This library has been slightly modified to run on Atmel Studio.
+
 
 
 lcdpcf8574 lib
@@ -29,3 +31,8 @@ This library was developed on Eclipse, built with avr-gcc on Atmega8 @ 1MHz.
 License
 -------
 Please refer to LICENSE file for licensing information.
+
+
+DataSheet 
+-------
+The PCF8574 is a silicon CMOS circuit. It provides general purpose remote I/O expansion for most microcontroller families via the two-line bidirectional bus (I2C). ... The PCF8574 has a low current consumption and includes latched outputs with high current drive capability for directly driving LEDs.
